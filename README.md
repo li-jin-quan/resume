@@ -14,11 +14,15 @@
 - **Main profile**: [github.com/li-jin-quan](https://github.com/li-jin-quan)
 - **Open-source contribution**: [RustSec PR #1686](https://github.com/RustSec/rustsec/pull/1686)
 
+> Regeneration/maintenance notes moved to [`MAINTENANCE.md`](./MAINTENANCE.md).
+
 ---
 
 ## About this version
 
 This is the **public, redacted** version of my resume. The original (Chinese, with internal headhunter branding) is only shared directly with recruiters and employers on request.
+
+> **Last updated:** 2026-08-31
 
 **Privacy redactions applied** (via PyMuPDF redaction — text fully removed, not just visually masked):
 - Personal phone number: masked
@@ -30,18 +34,5 @@ This is the **public, redacted** version of my resume. The original (Chinese, wi
 - No certifications are claimed that I do not hold.
 
 ---
-
-## Updating
-
-Regenerate the public PDF from the redacted source:
-
-```bash
-python D:/jl/gen_resume_public_pdf.py
-```
-
-Then push:
-```bash
-git push origin main
-```
 
 — *Li Jinquan (李金泉)*
