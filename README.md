@@ -22,7 +22,7 @@
 
 This is the **public, redacted** version of my resume. The original (Chinese, with internal headhunter branding) is only shared directly with recruiters and employers on request.
 
-> **Last updated:** 2026-08-31
+> **Last updated:** 2026-09-02
 
 **Privacy redactions applied** (via PyMuPDF redaction — text fully removed, not just visually masked):
 - Personal phone number: masked
