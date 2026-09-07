@@ -22,7 +22,7 @@
 
 This is the **public, redacted** version of my resume. The original (Chinese, with internal headhunter branding) is only shared directly with recruiters and employers on request.
 
-> **Last updated:** 2026-09-02
+> **Last updated:** 2026-09-07
 
 **Privacy redactions applied** (via PyMuPDF redaction — text fully removed, not just visually masked):
 - Personal phone number: masked
@@ -30,7 +30,7 @@ This is the **public, redacted** version of my resume. The original (Chinese, wi
 - Internal headhunter footer ("内部资料，请勿泄漏") removed from every page
 
 **Credential accuracy**:
-- All qualifications listed are verifiable (HackerOne / Immunefi bug bounty track record, GitHub open-source contributions, employment history).
+- All qualifications listed are verifiable (GitHub Security Advisory GHSA-6ffw-f7m6-gpxj with CVE pending, upstream security PRs incl. RustSec #1686, employment history).
 - No certifications are claimed that I do not hold.
 
 ---
