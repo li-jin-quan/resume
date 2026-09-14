@@ -12,7 +12,7 @@
 - **PDF (recommended for ATS)**: [Li_Jinquan_Resume.pdf](./Li_Jinquan_Resume.pdf)
 - **Online preview**: [index.html](./index.html) (mobile-friendly HTML wrapper around the PDF)
 - **Main profile**: [github.com/li-jin-quan](https://github.com/li-jin-quan)
-- **Open-source contribution**: [RustSec PR #1686](https://github.com/RustSec/rustsec/pull/1686)
+- **Merged upstream security work**: [sonos/tract — merged PRs](https://github.com/sonos/tract/pulls?q=is%3Apr+author%3Ali-jin-quan+is%3Amerged) · [zip-rs/zip2 #984](https://github.com/zip-rs/zip2/pull/984)
 
 > Regeneration/maintenance notes moved to [`MAINTENANCE.md`](./MAINTENANCE.md).
 
