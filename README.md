@@ -26,7 +26,7 @@ This is the **public, redacted** version of my resume. The original (Chinese, wi
 > **Last updated:** 2026-09-17
 
 **Privacy redactions applied** (via PyMuPDF redaction — text fully removed, not just visually masked):
-- Personal phone number: removed from the PDF body
+- Personal phone number: masked
 - Original email replaced with my public GitHub-linked address
 - Internal headhunter footer ("内部资料，请勿泄漏") removed from every page
 
